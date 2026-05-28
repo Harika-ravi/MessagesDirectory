@@ -1,12 +1,11 @@
 # 📱 Messages Directory
 
-> A polished React Native mobile app — an animated splash screen leading into a searchable directory of message categories, each opening a chat-style view where messages can be read, sent, and marked as read.
+A polished React Native mobile app — an animated splash screen leading into a searchable directory of message categories, each opening a chat-style view where messages can be read, sent, and marked as read.
 
 **Course:** CS5450 — Mobile Programming
-**Institution:** Department of Computer Science, Lakehead University
 **Instructor:** Dr. Sabah Mohammed
 **Author:** Harika Ravi (Student ID: 1332239)
-**Exercise:** 3 — React Native Messages Directory
+**Exercise: 3** — React Native Messages Directory
 
 ---
 
@@ -14,13 +13,13 @@
 
 | Feature | Description |
 |---------|-------------|
-| 🎬 **Animated Splash** | Logo scales and fades in, then auto-navigates to the directories after ~2 seconds. |
-| 🗂️ **Directories Grid** | Six colorful category cards (You, Home, Love, Family, Friends, School) with gradient icons and live unread badges. |
-| 🔍 **Search Bar** | Filter directories by name in real time. |
-| 🔔 **Unread Filter** | Toggle to show only directories that contain unread messages. |
-| 💬 **Chat Screen** | Messages render as chat bubbles — sent messages align right, received align left with sender avatars. |
-| ✍️ **Message Composer** | Type and send a new message; the list auto-scrolls to the newest message. |
-| ✅ **Mark All Read** | A header button clears unread indicators for the open directory; counts update everywhere instantly. |
+|  **Animated Splash** | Logo scales and fades in, then auto-navigates to the directories after ~2 seconds. |
+|  **Directories Grid** | Six colorful category cards (You, Home, Love, Family, Friends, School) with gradient icons and live unread badges. |
+|  **Search Bar** | Filter directories by name in real time. |
+|  **Unread Filter** | Toggle to show only directories that contain unread messages. |
+|  **Chat Screen** | Messages render as chat bubbles — sent messages align right, received align left with sender avatars. |
+|  **Message Composer** | Type and send a new message; the list auto-scrolls to the newest message. |
+|  **Mark All Read** | A header button clears unread indicators for the open directory; counts update everywhere instantly. |
 
 ---
 
@@ -77,7 +76,7 @@ MessagesDirectory/
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/<your-username>/MessagesDirectory.git
+   https://github.com/Harika-ravi/MessagesDirectory.git
    cd MessagesDirectory
 ```
 
@@ -113,9 +112,7 @@ MessagesDirectory/
 
 ## 📸 Screenshots
 
-| Splash | Directories | Chat |
-|--------|-------------|------|
-| _Add screenshot_ | _Add screenshot_ | _Add screenshot_ |
+
 
 > To add screenshots: create a `screenshots/` folder in the repo, upload your images, then replace the cells above like `![Splash](screenshots/splash.png)`.
 
